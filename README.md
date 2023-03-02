@@ -12,6 +12,6 @@
 
  <div id="header" align="center">
 
-      Autor#[Xcating]   (https://github.com/Xcating/Json_Integration)
+      Autor#[Xcating]   https://github.com/Xcating/Json_Integration
 
    </div>
