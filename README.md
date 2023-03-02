@@ -10,8 +10,10 @@
 
 <h3 align="center"> Данный пак был русифицированн для удобства использования </h3>
 
+
+<h1 align="center"> Autor# [Xcating] </a> 
+
  <div id="header" align="center">
+      https://github.com/Xcating/Json_Integration
+</div>
 
-      Autor#[Xcating]   https://github.com/Xcating/Json_Integration
-
-   </div>
